@@ -1,6 +1,7 @@
-This is a new file
+This is a new file - Add in Child
 Change At Line 2 - Add Content 4
 Made more changes to check merging branch to branch
 Change At Line 4 - Add Content 4
 Change at line 5
+Add line in Child
 Changed made in Branch_Apr
